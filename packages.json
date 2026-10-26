@@ -10,5 +10,10 @@
          "branch": "main",
          "description": "Slippy vector map viewer (CCMaps by cyberbit)"
        }
+      "panoffice": {
+         "repo": "PancakeInc/panOffice",
+         "branch": "main",
+         "description": "The office suite for AetherOS"
+       }
      }
    }
