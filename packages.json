@@ -15,5 +15,10 @@
          "branch": "main",
          "description": "The office suite for AetherOS"
        }
+      "cmatrix": {
+         "repo": "PancakeInc/cmatrix",
+         "branch": "main",
+         "description": "Blue pill or red pill."
+       }
      }
    }
