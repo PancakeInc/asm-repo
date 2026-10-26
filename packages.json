@@ -1,0 +1,14 @@
+   {
+     "packages": {
+       "hello-world": {
+         "repo": "ItzPancakse/AetherOS-Package-Template",
+         "branch": "main",
+         "description": "Example package"
+       },
+       "ccmaps": {
+         "repo": "PancakeInc/ccmaps",
+         "branch": "main",
+         "description": "Slippy vector map viewer (CCMaps by cyberbit)"
+       }
+     }
+   }
